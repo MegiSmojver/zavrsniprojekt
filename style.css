@@ -4,7 +4,7 @@ body {
 }
 .header {
 	height: 500px;
-	background: url('img/psic.jpg') no-repeat;
+	background: url('img/naslovna.jpg') no-repeat;
 	background-size: cover;
 }
 .header a {
@@ -47,7 +47,7 @@ body {
 
 .main-menu {
 	width: 100%;
-	background-color: #2E0000;
+	background-color: #781347;
 }
 .main-menu li {
 	display: inline-block;
@@ -55,7 +55,7 @@ body {
 	transition: 3s;
 }
 .main-menu li a {
-	color: #000;
+	color: #FFAEF7;
 	font-size: 18pt;
 	padding-left: 40px;
 	padding-right: 40px;
@@ -123,7 +123,7 @@ body {
 
 
 .contact-form {	
-	background-color: #F1C40F;
+	background-color: #BD74A2;
 	padding: 100px;
 }
 .contact-form h1 {
@@ -160,7 +160,7 @@ body {
 
 .footer {
 	height: 400px;
-	background: url('img/footer_bg.jpg') no-repeat;
+	background: url('img/slikafooter.jpg') no-repeat;
 	background-size: cover;
 }
 .footer img {
